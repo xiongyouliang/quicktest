@@ -511,3 +511,66 @@ TextureCache dumpDebugInfo: 3 textures, for 171 KB (0.17 MB)
 TextureCache dumpDebugInfo: 3 textures, for 171 KB (0.17 MB)
 
 [LUA-print] [INFO] ---------------------------------------------------
+[LUA-print] [INFO] LUA VM MEMORY USED: 4730.08 KB
+[LUA-print] [INFO] "/Users/xiongyouliang/Documents/cocos2d/Projects/quicktest/res/image/panel.png" rc=2 id=3 120 x 120 @ 32 bpp => 56 KB
+"/Users/xiongyouliang/Documents/cocos2d/Projects/quicktest/res/image/button.png" rc=2 id=4 50 x 50 @ 32 bpp => 9 KB
+"/cc_fps_images" rc=4 id=2 999 x 54 @ 16 bpp => 105 KB
+TextureCache dumpDebugInfo: 3 textures, for 171 KB (0.17 MB)
+
+[LUA-print] [INFO] ---------------------------------------------------
+[LUA-print] [INFO] LUA VM MEMORY USED: 4730.57 KB
+[LUA-print] [INFO] "/Users/xiongyouliang/Documents/cocos2d/Projects/quicktest/res/image/panel.png" rc=2 id=3 120 x 120 @ 32 bpp => 56 KB
+"/Users/xiongyouliang/Documents/cocos2d/Projects/quicktest/res/image/button.png" rc=2 id=4 50 x 50 @ 32 bpp => 9 KB
+"/cc_fps_images" rc=4 id=2 999 x 54 @ 16 bpp => 105 KB
+TextureCache dumpDebugInfo: 3 textures, for 171 KB (0.17 MB)
+
+[LUA-print] [INFO] ---------------------------------------------------
+[LUA-print] [INFO] LUA VM MEMORY USED: 4731.06 KB
+[LUA-print] [INFO] "/Users/xiongyouliang/Documents/cocos2d/Projects/quicktest/res/image/panel.png" rc=2 id=3 120 x 120 @ 32 bpp => 56 KB
+"/Users/xiongyouliang/Documents/cocos2d/Projects/quicktest/res/image/button.png" rc=2 id=4 50 x 50 @ 32 bpp => 9 KB
+"/cc_fps_images" rc=4 id=2 999 x 54 @ 16 bpp => 105 KB
+TextureCache dumpDebugInfo: 3 textures, for 171 KB (0.17 MB)
+
+[LUA-print] [INFO] ---------------------------------------------------
+[LUA-print] [INFO] LUA VM MEMORY USED: 4731.55 KB
+[LUA-print] [INFO] "/Users/xiongyouliang/Documents/cocos2d/Projects/quicktest/res/image/panel.png" rc=2 id=3 120 x 120 @ 32 bpp => 56 KB
+"/Users/xiongyouliang/Documents/cocos2d/Projects/quicktest/res/image/button.png" rc=2 id=4 50 x 50 @ 32 bpp => 9 KB
+"/cc_fps_images" rc=4 id=2 999 x 54 @ 16 bpp => 105 KB
+TextureCache dumpDebugInfo: 3 textures, for 171 KB (0.17 MB)
+
+[LUA-print] [INFO] ---------------------------------------------------
+[LUA-print] [INFO] LUA VM MEMORY USED: 4732.04 KB
+[LUA-print] [INFO] "/Users/xiongyouliang/Documents/cocos2d/Projects/quicktest/res/image/panel.png" rc=2 id=3 120 x 120 @ 32 bpp => 56 KB
+"/Users/xiongyouliang/Documents/cocos2d/Projects/quicktest/res/image/button.png" rc=2 id=4 50 x 50 @ 32 bpp => 9 KB
+"/cc_fps_images" rc=4 id=2 999 x 54 @ 16 bpp => 105 KB
+TextureCache dumpDebugInfo: 3 textures, for 171 KB (0.17 MB)
+
+[LUA-print] [INFO] ---------------------------------------------------
+[LUA-print] [INFO] LUA VM MEMORY USED: 4732.53 KB
+[LUA-print] [INFO] "/Users/xiongyouliang/Documents/cocos2d/Projects/quicktest/res/image/panel.png" rc=2 id=3 120 x 120 @ 32 bpp => 56 KB
+"/Users/xiongyouliang/Documents/cocos2d/Projects/quicktest/res/image/button.png" rc=2 id=4 50 x 50 @ 32 bpp => 9 KB
+"/cc_fps_images" rc=4 id=2 999 x 54 @ 16 bpp => 105 KB
+TextureCache dumpDebugInfo: 3 textures, for 171 KB (0.17 MB)
+
+[LUA-print] [INFO] ---------------------------------------------------
+[LUA-print] [INFO] LUA VM MEMORY USED: 4733.02 KB
+[LUA-print] [INFO] "/Users/xiongyouliang/Documents/cocos2d/Projects/quicktest/res/image/panel.png" rc=2 id=3 120 x 120 @ 32 bpp => 56 KB
+"/Users/xiongyouliang/Documents/cocos2d/Projects/quicktest/res/image/button.png" rc=2 id=4 50 x 50 @ 32 bpp => 9 KB
+"/cc_fps_images" rc=4 id=2 999 x 54 @ 16 bpp => 105 KB
+TextureCache dumpDebugInfo: 3 textures, for 171 KB (0.17 MB)
+
+[LUA-print] [INFO] ---------------------------------------------------
+[LUA-print] [INFO] LUA VM MEMORY USED: 4733.51 KB
+[LUA-print] [INFO] "/Users/xiongyouliang/Documents/cocos2d/Projects/quicktest/res/image/panel.png" rc=2 id=3 120 x 120 @ 32 bpp => 56 KB
+"/Users/xiongyouliang/Documents/cocos2d/Projects/quicktest/res/image/button.png" rc=2 id=4 50 x 50 @ 32 bpp => 9 KB
+"/cc_fps_images" rc=4 id=2 999 x 54 @ 16 bpp => 105 KB
+TextureCache dumpDebugInfo: 3 textures, for 171 KB (0.17 MB)
+
+[LUA-print] [INFO] ---------------------------------------------------
+[LUA-print] [INFO] LUA VM MEMORY USED: 4734.00 KB
+[LUA-print] [INFO] "/Users/xiongyouliang/Documents/cocos2d/Projects/quicktest/res/image/panel.png" rc=2 id=3 120 x 120 @ 32 bpp => 56 KB
+"/Users/xiongyouliang/Documents/cocos2d/Projects/quicktest/res/image/button.png" rc=2 id=4 50 x 50 @ 32 bpp => 9 KB
+"/cc_fps_images" rc=4 id=2 999 x 54 @ 16 bpp => 105 KB
+TextureCache dumpDebugInfo: 3 textures, for 171 KB (0.17 MB)
+
+[LUA-print] [INFO] ---------------------------------------------------
